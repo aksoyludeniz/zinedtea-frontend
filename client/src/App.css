@@ -1,0 +1,21 @@
+
+.mdl-layout__header-row {
+    background-color: #ff5800;
+  }
+
+
+.material-icons {
+  image: url("https://user-images.githubusercontent.com/33230300/39197069-a16976dc-47b1-11e8-9352-62205d14d6a4.png")
+
+}
+
+  body {
+      background-image: url("https://d39ziaow49lrgk.cloudfront.net/wp-content/uploads/2015/04/dandelion-tea.jpg");
+
+      height: 100%;
+      width: auto;
+
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }

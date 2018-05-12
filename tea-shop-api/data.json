@@ -1,0 +1,3 @@
+db.products.insert({"price":10,"title":"Tea 1","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/61brtXGJERL._AC_US436_QL65_.jpg"})
+db.products.insert({"price":10,"title":"Tea 2","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/51J3Ii1EtdL._AC_US436_QL65_.jpg"})
+db.products.insert({"price":10,"title":"Tea 3","imgUrl":"https://images-na.ssl-images-amazon.com/images/I/517ihJj0okL._AC_US320_FMwebp_QL65_.jpg"})

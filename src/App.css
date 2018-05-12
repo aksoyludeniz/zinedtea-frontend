@@ -1,0 +1,69 @@
+body {
+  background: #F2994A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F2C94C, #F2994A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F2C94C, #F2994A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.mdl-layout__header-row {
+  position: fixed;
+  background: #F2994A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F2C94C, #F2994A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F2C94C, #F2994A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+projects-grid {
+  display: flex;
+}
+
+footer {
+  position: fixed;
+  margin-top: 2%;
+  width: 100%;
+  text-align: center;
+  font-size: 0.8em;
+  bottom: 0;
+  opacity: 0.5;
+  background: #F2994A;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #F2C94C, #F2994A);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #F2C94C, #F2994A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+footer ul {
+  list-style-type: none;
+
+}
+footer ul li {
+  display: inline;
+  margin: 0 15px;
+  color: #ff5800;
+}
+
+.mdl-dialog {
+  width: 700px;
+  height: 500px;
+}
+
+.home-body {
+  margin: auto;
+  font-family: 'Pacifico', cursive;
+}
+
+h1 {
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-size: 150px;
+    font-weight: 400;
+    line-height: 1.35;
+    letter-spacing: -0.02em;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 370px;
+    margin-top: 222px;
+    font-family: 'Gloria Hallelujah';
+    color: white;
+    }
+/*element.stylesheet {
+  position: fixed;
+  top: 111.5px;
+}*/
